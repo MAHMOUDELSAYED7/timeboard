@@ -1,3 +1,8 @@
+## 0.2.0
+
+- Removed `TimeboardSampleData` from the public API (it was demo data only).
+- Added repository links and an MIT license.
+
 ## 0.1.0
 
 - Month, Week, Day and Agenda views.
