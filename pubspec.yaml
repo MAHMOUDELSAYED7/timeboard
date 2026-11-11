@@ -1,0 +1,22 @@
+name: timeboard
+description: "Timeboard: a fast, fully customizable Month / Week / Day / Agenda calendar for Flutter. Responsive for phones, tablets and desktop; light and dark themes."
+version: 0.1.0
+topics:
+  - calendar
+  - scheduler
+  - booking
+  - agenda
+
+environment:
+  sdk: ^3.11.3
+  flutter: ">=3.29.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
