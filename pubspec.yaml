@@ -1,6 +1,9 @@
 name: timeboard
 description: "Timeboard: a fast, fully customizable Month / Week / Day / Agenda calendar for Flutter. Responsive for phones, tablets and desktop; light and dark themes."
 version: 0.1.0
+homepage: https://github.com/MAHMOUDELSAYED7/timeboard
+repository: https://github.com/MAHMOUDELSAYED7/timeboard
+issue_tracker: https://github.com/MAHMOUDELSAYED7/timeboard/issues
 topics:
   - calendar
   - scheduler
