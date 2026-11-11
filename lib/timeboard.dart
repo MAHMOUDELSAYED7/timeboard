@@ -8,4 +8,3 @@ export 'src/calendar_options.dart';
 export 'src/calendar_theme.dart';
 export 'src/timeboard.dart';
 export 'src/timeboard_date_picker.dart';
-export 'src/sample_data.dart';

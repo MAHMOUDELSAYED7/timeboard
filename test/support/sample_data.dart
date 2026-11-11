@@ -1,4 +1,4 @@
-import 'calendar_models.dart';
+import 'package:timeboard/timeboard.dart';
 
 /// Fixtures matching the Figma frames (October 2026, "today" = 14 Oct).
 /// For demos, previews and tests only.

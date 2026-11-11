@@ -1,4 +1,5 @@
 import 'package:timeboard/timeboard.dart';
+import 'support/sample_data.dart';
 import 'package:timeboard/src/calendar_widgets.dart';
 import 'package:timeboard/src/time_grid.dart';
 import 'package:flutter/gestures.dart';
